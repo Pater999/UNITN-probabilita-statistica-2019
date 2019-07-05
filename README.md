@@ -4,7 +4,7 @@ Repository contenente le mie soluzioni agli esercizi di probabilità e statistic
 **Nella cartella Soluzioni sono presenti le soluzioni ufficiali agli esercizi utili da confrontare con le mie per capire se sono giuste**
 
 ### Esercizi corretti 
--[x]2019-03-04
+- [x] 2019-03-04
 -[x]2019-03-05
 -[x]2019-03-06
 -[x]2019-03-07
